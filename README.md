@@ -15,3 +15,4 @@ For all IPT students at DarTU
 > Fifth: Push main to origin
 
 - Elly Bachubila, _Nice meetig you_
+- David meruli, _am happy to be in here_
