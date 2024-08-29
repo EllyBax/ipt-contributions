@@ -26,3 +26,4 @@ For all IPT students at DarTU
 
 - Elly Bachubila, _Nice meetig you_
 - David meruli, _am happy to be in here_
+- Collin charles, _am here learning git_
