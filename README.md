@@ -4,6 +4,13 @@
 
 For all IPT students at DarTU
 
+## Getting Started
+
+1. Clone this repo by running ```git clone https://github.com/EllyBax/ipt-contributions.git```
+2. This will create a new foler called **ipt-contributions**
+3. Navigate into this folder by ```cd ipt-contributions```
+4. Open visual studio code by ```code .```
+
 ## Student List
 
 **Enter your full name and a message below**
